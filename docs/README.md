@@ -6,6 +6,9 @@ tagline: "Conteúdos de estudo, anotações e desafios"
 actions:
   - text: Treinamentos
     link: /treinamentos/
+    type: primary
+  - text: Processos
+    link: /processos/
     type: secondary
 
 footer: MIT Licensed | Maicon Cerutti 2023

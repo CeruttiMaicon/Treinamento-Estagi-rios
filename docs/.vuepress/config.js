@@ -67,6 +67,20 @@ export default {
           },
         ],
       },
+      {
+        text: 'Processos',
+        link: '/processos',
+        children: [
+          {
+            text: 'KANBAN',
+            link: '/processos/kanban',
+          },
+          {
+            text: 'Metodologia SCRUM',
+            link: '/processos/scrum',
+          }
+        ],
+      },
     ],
   }),
 }

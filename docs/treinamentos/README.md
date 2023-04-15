@@ -1,4 +1,11 @@
-# Treinamentos
+---
+home: true
+heroImage: /images/treinamentos/hero.svg
+heroText: Treinamentos
+tagline: "Treinamento para estagiários para equipe de desenvolvimento de software SRP"
+
+---
+# Lista de Treinamentos
 
 - [Módulo 1](/treinamentos/modulo-1/README.md)
 - [Módulo 2](/treinamentos/modulo-2/README.md)
