@@ -1,5 +1,6 @@
 ---
 home: true
+heroImage: /images/home/hero.svg
 heroText: Treinamento de Estagiários
 tagline: "Conteúdos de estudo, anotações e desafios"
 actions:
