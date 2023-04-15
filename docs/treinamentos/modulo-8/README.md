@@ -1,9 +1,9 @@
 ---
 sidebar: auto
-title: Módulo 7
+title: Módulo 8
 ---
 
-# Módulo 7: Conhecendo Linux (comandos básicos)
+# Módulo 8: Conhecendo Linux (comandos básicos)
 
 Neste módulo, os estagiários aprenderão sobre o sistema operacional Linux e comandos básicos para navegação e gerenciamento de arquivos.
 
