@@ -9,7 +9,13 @@ Neste módulo, os estagiários aprenderão sobre a linguagem de programação Ja
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Curso em Vídeo
+
+[Curso em Vídeo - Javascript](https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
+
+### Aula Programação Web
+
+[Curso de JavaScript Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw)
 
 # Desafios
 

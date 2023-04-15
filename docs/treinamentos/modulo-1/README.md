@@ -9,7 +9,13 @@ Neste módulo, os estagiários aprenderão sobre algoritmos e resolverão proble
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Curso em Vídeo
+
+[Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+
+### Aula Dev Aprender
+
+[Curso Lógica de Programação Completo 2021 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM)
 
 # Desafios
 

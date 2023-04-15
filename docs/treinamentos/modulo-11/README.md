@@ -9,7 +9,27 @@ Neste módulo, os estagiários aprenderão os fundamentos do framework Laravel e
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Carlos Ferreira - Especializa TI
+
+[Curso Gratuito de Laravel 10.x](https://www.youtube.com/playlist?list=PLVSNL1PHDWvQ1N6fqhQ5HQzFtN-xrkjNU)
+
+## Documentação Oficial
+
+[Documentação Oficial do Laravel](https://laravel.com/)
+
+::: warning DICA 1
+
+A documentação oficial do Laravel é um dos melhores recursos para aprender a usar o framework. Ela é bem completa e bem escrita, e é atualizada constantemente.
+
+Sempre leia a documentação oficial antes de procurar por tutoriais na internet. Pois lá você encontrará a informação mais atualizada e a mais completa.
+
+:::
+
+::: warning DICA 2
+
+Se vai iniciar um projeto com Laravel, leia a documentação oficial do framework antes de começar a codificar. Assim você terá uma visão geral do framework e poderá planejar melhor o projeto.
+
+:::
 
 # Desafios
 

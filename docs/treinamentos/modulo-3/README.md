@@ -9,7 +9,13 @@ Neste módulo, os estagiários aprenderão sobre a linguagem de marcação HTML 
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Programação Web
+
+[Curso de HTML Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_cajoGVWTx44wM6Ht09QJ3A)
+
+### Aula Curso em Vídeo
+
+[Curso completo e atual de HTML5 e CSS3](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n)
 
 # Desafios
 

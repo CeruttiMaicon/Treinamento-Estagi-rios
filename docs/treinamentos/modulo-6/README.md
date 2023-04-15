@@ -9,7 +9,13 @@ Neste módulo, os estagiários aprenderão sobre a linguagem de programação PH
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Curso em Vídeo - PHP
+
+[Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)
+
+### Aula UnSet
+
+[Curso de PHP 8 do Zero ao Profissional](https://www.youtube.com/playlist?list=PL0N5TAOhX5E9eJ9Ix6YUIgEw3lNmaIEE9)
 
 # Desafios
 

@@ -9,7 +9,9 @@ Neste módulo, os estagiários aprenderão sobre o sistema de controle de versã
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Curso em Vídeo
+
+[Curso de Git e GitHub](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 # Desafios
 

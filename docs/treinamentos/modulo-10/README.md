@@ -9,7 +9,13 @@ Neste módulo, os estagiários aprenderão os fundamentos do MySQL e como trabal
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Curso em Vídeo
+
+[Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
+
+### Aula Otávio Miranda
+
+[Curso de SQL com MySQL (Completo)](https://www.youtube.com/playlist?list=PLbIBj8vQhvm2WT-pjGS5x7zUzmh4VgvRk)
 
 # Desafios
 

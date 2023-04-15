@@ -9,7 +9,13 @@ Neste módulo, os estagiários aprenderão os conceitos fundamentais da Programa
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Curso em Vídeo - POO
+
+[Curso de POO PHP (Programação Orientada a Objetos)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x)
+
+### Aula Rodrigo Oliveira
+
+[Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I)
 
 # Desafios
 

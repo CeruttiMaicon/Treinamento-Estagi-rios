@@ -9,7 +9,15 @@ Neste módulo, os estagiários aprenderão sobre o sistema operacional Linux e c
 
 ## Aulas
 
-### Aula 1: ????
+### Aula Curso em Vídeo
+
+[Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)
+
+### Vídeos Diolinux
+
+[Aprenda os comandos básicos do Linux - Terminal Ubuntu](https://www.youtube.com/watch?v=JEhVB4VHsTI&t)
+
+[30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um HACKER](https://www.youtube.com/watch?v=QZ2nyxzZXPY)
 
 # Desafios
 

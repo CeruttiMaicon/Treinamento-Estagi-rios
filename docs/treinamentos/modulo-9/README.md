@@ -9,7 +9,13 @@ Neste módulo, os estagiários aprenderão os conceitos básicos do Docker e com
 
 ## Aulas
 
-### Aula 1: ????
+### Aula LinuxTips
+
+[Descomplicando o Docker](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR)
+
+### Vídeos Diolinux
+
+[O mínimo que você precisa saber sobre Docker!](https://www.youtube.com/watch?v=ntbpIfS44Gw)
 
 # Desafios
 
