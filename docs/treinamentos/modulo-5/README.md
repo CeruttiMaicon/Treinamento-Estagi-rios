@@ -7,6 +7,12 @@ title: Módulo 5
 
 Neste módulo, os estagiários aprenderão sobre a linguagem de programação JavaScript e como adicionar interatividade às páginas web.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Sintaxe e variáveis
 
 Aprenda a sintaxe básica do JavaScript, incluindo declaração de variáveis e tipos de dados.

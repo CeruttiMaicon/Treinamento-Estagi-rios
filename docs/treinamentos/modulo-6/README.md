@@ -7,6 +7,12 @@ title: Módulo 6
 
 Neste módulo, os estagiários aprenderão sobre a linguagem de programação PHP e como usá-la para criar aplicações web dinâmicas.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Sintaxe e variáveis
 
 Aprenda a sintaxe básica do PHP, incluindo declaração de variáveis e tipos de dados.

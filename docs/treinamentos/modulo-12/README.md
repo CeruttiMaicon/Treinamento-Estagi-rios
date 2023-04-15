@@ -7,6 +7,11 @@ title: Módulo 12
 
 Neste módulo, os estagiários continuarão trabalhando no projeto CRUD iniciado no módulo anterior, adicionando mais funcionalidades e aprimorando suas habilidades no Laravel.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
 ## Desafio 1: Validação de dados
 
 Aprenda a utilizar o sistema de validação de dados do Laravel para garantir que os dados inseridos pelos usuários estejam corretos e consistentes.

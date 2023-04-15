@@ -7,6 +7,12 @@ title: Módulo 2
 
 Neste módulo, os estagiários aprenderão sobre o sistema de controle de versão Git e o fluxo de desenvolvimento utilizando o versionamento semântico.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Instalação e configuração do Git
 
 Instale o Git no seu computador e configure seu nome de usuário e e-mail.

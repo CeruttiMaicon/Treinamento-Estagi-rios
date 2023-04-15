@@ -7,6 +7,12 @@ title: Módulo 4
 
 Neste módulo, os estagiários aprenderão sobre CSS (Cascading Style Sheets) e como estilizar páginas web.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Sintaxe CSS
 
 Aprenda a sintaxe básica do CSS e crie um arquivo CSS externo para estilizar sua página HTML.

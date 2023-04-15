@@ -7,6 +7,12 @@ title: Módulo 11
 
 Neste módulo, os estagiários aprenderão os fundamentos do framework Laravel e começarão a trabalhar com um projeto CRUD.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Introdução ao Laravel
 
 Entenda o que é o Laravel, seus recursos e arquitetura, e como ele se encaixa no ecossistema PHP.

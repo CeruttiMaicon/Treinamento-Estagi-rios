@@ -7,6 +7,12 @@ title: Módulo 3
 
 Neste módulo, os estagiários aprenderão sobre a linguagem de marcação HTML e como criar páginas web simples.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Estrutura básica de uma página HTML
 
 Crie uma página HTML básica com elementos doctype, html, head e body.

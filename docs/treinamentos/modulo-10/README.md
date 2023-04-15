@@ -7,6 +7,12 @@ title: Módulo 10
 
 Neste módulo, os estagiários aprenderão os fundamentos do MySQL e como trabalhar com bancos de dados e tabelas.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Introdução ao MySQL
 
 Aprenda os conceitos básicos do MySQL, seu histórico, características e arquitetura.

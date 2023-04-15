@@ -7,6 +7,12 @@ title: Módulo 8
 
 Neste módulo, os estagiários aprenderão sobre o sistema operacional Linux e comandos básicos para navegação e gerenciamento de arquivos.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Introdução ao Linux
 
 Aprenda os fundamentos do sistema operacional Linux, sua história e as distribuições mais populares.

@@ -7,6 +7,12 @@ title: Módulo 9
 
 Neste módulo, os estagiários aprenderão os conceitos básicos do Docker e como usá-lo para facilitar o desenvolvimento e a implantação de aplicações.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Introdução ao Docker
 
 Aprenda os fundamentos do Docker, sua história e como ele funciona, incluindo a arquitetura de contêineres e imagens.

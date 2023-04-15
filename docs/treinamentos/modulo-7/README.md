@@ -7,6 +7,12 @@ title: Módulo 7
 
 Neste módulo, os estagiários aprenderão os conceitos fundamentais da Programação Orientada a Objetos (POO) e como aplicá-los em PHP.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Introdução à POO
 
 Entenda os conceitos básicos da Programação Orientada a Objetos, como classes, objetos, métodos e atributos.

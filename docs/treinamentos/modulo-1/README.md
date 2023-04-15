@@ -7,6 +7,12 @@ title: Módulo 1
 
 Neste módulo, os estagiários aprenderão sobre algoritmos e resolverão problemas comuns usando diferentes estruturas de dados e técnicas de programação.
 
+## Aulas
+
+### Aula 1: ????
+
+# Desafios
+
 ## Desafio 1: Média de notas
 
 Escreva um programa que recebe notas de alunos e calcula a média das notas.
