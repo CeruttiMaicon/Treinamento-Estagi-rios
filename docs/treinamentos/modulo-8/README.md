@@ -3,53 +3,43 @@ sidebar: auto
 title: Módulo 8
 ---
 
-# Módulo 8: Conhecendo Linux (comandos básicos)
+# Módulo 8: Programação Orientada a Objetos (POO)
 
-Neste módulo, os estagiários aprenderão sobre o sistema operacional Linux e comandos básicos para navegação e gerenciamento de arquivos.
+Neste módulo, os estagiários aprenderão os conceitos fundamentais da Programação Orientada a Objetos (POO) e como aplicá-los em PHP.
 
 ## Aulas
 
-### Aula Curso em Vídeo
+### Aula Curso em Vídeo - POO
 
-[Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)
+[Curso de POO PHP (Programação Orientada a Objetos)](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x)
 
-### Vídeos Diolinux
+### Aula Rodrigo Oliveira
 
-[Aprenda os comandos básicos do Linux - Terminal Ubuntu](https://www.youtube.com/watch?v=JEhVB4VHsTI&t)
-
-[30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um HACKER](https://www.youtube.com/watch?v=QZ2nyxzZXPY)
+[Curso de PHP Orientado a Objetos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVEau55kNj_zLgpXL4JZUg8I)
 
 # Desafios
 
-## Desafio 1: Introdução ao Linux
+## Desafio 1: Introdução à POO
 
-Aprenda os fundamentos do sistema operacional Linux, sua história e as distribuições mais populares.
+Entenda os conceitos básicos da Programação Orientada a Objetos, como classes, objetos, métodos e atributos.
 
-## Desafio 2: Navegação no sistema de arquivos
+## Desafio 2: Classes e objetos em PHP
 
-Pratique a navegação no sistema de arquivos Linux usando comandos como `cd`, `ls`, `pwd` e `mkdir`.
+Aprenda a criar classes e objetos em PHP e a trabalhar com métodos e atributos.
 
-## Desafio 3: Gerenciamento de arquivos e diretórios
+## Desafio 3: Herança e polimorfismo
 
-Aprenda a criar, copiar, mover e remover arquivos e diretórios com comandos como `touch`, `cp`, `mv` e `rm`.
+Explore os conceitos de herança e polimorfismo em PHP, aprendendo a estender classes e a sobrescrever ou modificar métodos.
 
-## Desafio 4: Gerenciamento de permissões
+## Desafio 4: Encapsulamento e modificadores de acesso
 
-Entenda o sistema de permissões do Linux e como alterar permissões e propriedade de arquivos e diretórios usando comandos como `chmod` e `chown`.
+Aprenda sobre encapsulamento e a importância de controlar o acesso a atributos e métodos por meio de modificadores de acesso.
 
-## Desafio 5: Utilização de pipes e redirecionamento
+## Desafio 5: Interfaces e classes abstratas
 
-Aprenda a usar pipes (`|`) e redirecionamento (`>`, `>>`) para conectar e manipular a saída de comandos no Linux.
+Entenda as diferenças entre interfaces e classes abstratas e como usá-las para estruturar e organizar o código.
 
-## Desafio 6: Comandos de busca e manipulação de texto
+## Desafio 6: Projeto prático
 
-Pratique comandos de busca e manipulação de texto como `grep`, `find`, `sort`, `cut` e `awk`.
-
-## Desafio 7: Gerenciamento de processos
-
-Aprenda a gerenciar processos no Linux usando comandos como `ps`, `top`, `kill`, `nice` e `renice`.
-
-## Desafio 8: Criação de Alias e funções básicas com Shell Script
-
-Aprenda a criar aliases e funções básicas com Shell Script para facilitar o cotidiano. Peça ajuda a um líder técnico para aprimorar suas habilidades.
+Crie um projeto prático em PHP aplicando os conceitos de POO aprendidos neste módulo.
 

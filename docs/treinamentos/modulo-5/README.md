@@ -3,51 +3,51 @@ sidebar: auto
 title: Módulo 5
 ---
 
-# Módulo 5: JavaScript
+# Módulo 5: Algoritmos
 
-Neste módulo, os estagiários aprenderão sobre a linguagem de programação JavaScript e como adicionar interatividade às páginas web.
+Neste módulo, os estagiários aprenderão sobre algoritmos e resolverão problemas comuns usando diferentes estruturas de dados e técnicas de programação.
 
 ## Aulas
 
 ### Aula Curso em Vídeo
 
-[Curso em Vídeo - Javascript](https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
+[Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
 
-### Aula Programação Web
+### Aula Dev Aprender
 
-[Curso de JavaScript Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw)
+[Curso Lógica de Programação Completo 2021 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM)
 
 # Desafios
 
-## Desafio 1: Sintaxe e variáveis
+## Desafio 1: Média de notas
 
-Aprenda a sintaxe básica do JavaScript, incluindo declaração de variáveis e tipos de dados.
+Escreva um programa que recebe notas de alunos e calcula a média das notas.
 
-## Desafio 2: Operadores e estruturas de controle
+## Desafio 2: Sequência Fibonacci
 
-Explore operadores aritméticos, de comparação e lógicos, bem como estruturas de controle, como if, switch, for e while.
+Crie um programa que gere e imprima a sequência Fibonacci até o enésimo termo.
 
-## Desafio 3: Funções e escopo
+## Desafio 3: Palíndromo
 
-Aprenda a criar e usar funções no JavaScript e entenda o conceito de escopo de variáveis.
+Desenvolva um programa que verifique se uma string é um palíndromo.
 
-## Desafio 4: Objetos e arrays
+## Desafio 4: Ordenação de números
 
-Trabalhe com objetos e arrays no JavaScript, incluindo a criação, manipulação e acesso a propriedades e elementos.
+Escreva um algoritmo que ordene uma lista de números em ordem crescente.
 
-## Desafio 5: DOM e manipulação de elementos
+## Desafio 5: Maior e menor número
 
-Aprenda a selecionar, criar e modificar elementos HTML usando JavaScript e a API do Document Object Model (DOM).
+Crie um programa que encontre o maior e o menor número em uma lista de números.
 
-## Desafio 6: Eventos e manipuladores de eventos
+## Desafio 6: Fatorial
 
-Adicione interatividade à sua página HTML, lidando com eventos e registrando manipuladores de eventos usando JavaScript.
+Desenvolva um algoritmo que calcule o fatorial de um número.
 
-## Desafio 7: Chamadas AJAX e APIs
+## Desafio 7: Números primos
 
-Aprenda a fazer chamadas AJAX para recuperar dados de APIs e atualizar sua página HTML dinamicamente.
+Escreva um programa que verifique se um número é primo.
 
-## Desafio 8: Bibliotecas e frameworks JavaScript
+## Desafio 8: Validação de CPF
 
-Explore bibliotecas e frameworks JavaScript populares, como jQuery, React, Angular e Vue.js.
+Crie um algoritmo que valide um número de CPF.
 

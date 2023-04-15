@@ -3,51 +3,53 @@ sidebar: auto
 title: Módulo 1
 ---
 
-# Módulo 1: Algoritmos
+# Módulo 1: Conhecendo Linux (comandos básicos)
 
-Neste módulo, os estagiários aprenderão sobre algoritmos e resolverão problemas comuns usando diferentes estruturas de dados e técnicas de programação.
+Neste módulo, os estagiários aprenderão sobre o sistema operacional Linux e comandos básicos para navegação e gerenciamento de arquivos.
 
 ## Aulas
 
 ### Aula Curso em Vídeo
 
-[Curso de Lógica de Programação](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+[Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)
 
-### Aula Dev Aprender
+### Vídeos Diolinux
 
-[Curso Lógica de Programação Completo 2021 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM)
+[Aprenda os comandos básicos do Linux - Terminal Ubuntu](https://www.youtube.com/watch?v=JEhVB4VHsTI&t)
+
+[30 Comandos do Terminal Linux BÁSICOS que você PRECISA SABER para ser um HACKER](https://www.youtube.com/watch?v=QZ2nyxzZXPY)
 
 # Desafios
 
-## Desafio 1: Média de notas
+## Desafio 1: Introdução ao Linux
 
-Escreva um programa que recebe notas de alunos e calcula a média das notas.
+Aprenda os fundamentos do sistema operacional Linux, sua história e as distribuições mais populares.
 
-## Desafio 2: Sequência Fibonacci
+## Desafio 2: Navegação no sistema de arquivos
 
-Crie um programa que gere e imprima a sequência Fibonacci até o enésimo termo.
+Pratique a navegação no sistema de arquivos Linux usando comandos como `cd`, `ls`, `pwd` e `mkdir`.
 
-## Desafio 3: Palíndromo
+## Desafio 3: Gerenciamento de arquivos e diretórios
 
-Desenvolva um programa que verifique se uma string é um palíndromo.
+Aprenda a criar, copiar, mover e remover arquivos e diretórios com comandos como `touch`, `cp`, `mv` e `rm`.
 
-## Desafio 4: Ordenação de números
+## Desafio 4: Gerenciamento de permissões
 
-Escreva um algoritmo que ordene uma lista de números em ordem crescente.
+Entenda o sistema de permissões do Linux e como alterar permissões e propriedade de arquivos e diretórios usando comandos como `chmod` e `chown`.
 
-## Desafio 5: Maior e menor número
+## Desafio 5: Utilização de pipes e redirecionamento
 
-Crie um programa que encontre o maior e o menor número em uma lista de números.
+Aprenda a usar pipes (`|`) e redirecionamento (`>`, `>>`) para conectar e manipular a saída de comandos no Linux.
 
-## Desafio 6: Fatorial
+## Desafio 6: Comandos de busca e manipulação de texto
 
-Desenvolva um algoritmo que calcule o fatorial de um número.
+Pratique comandos de busca e manipulação de texto como `grep`, `find`, `sort`, `cut` e `awk`.
 
-## Desafio 7: Números primos
+## Desafio 7: Gerenciamento de processos
 
-Escreva um programa que verifique se um número é primo.
+Aprenda a gerenciar processos no Linux usando comandos como `ps`, `top`, `kill`, `nice` e `renice`.
 
-## Desafio 8: Validação de CPF
+## Desafio 8: Criação de Alias e funções básicas com Shell Script
 
-Crie um algoritmo que valide um número de CPF.
+Aprenda a criar aliases e funções básicas com Shell Script para facilitar o cotidiano. Peça ajuda a um líder técnico para aprimorar suas habilidades.
 

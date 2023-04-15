@@ -3,25 +3,25 @@ sidebar: auto
 title: Módulo 6
 ---
 
-# Módulo 6: PHP
+# Módulo 6: JavaScript
 
-Neste módulo, os estagiários aprenderão sobre a linguagem de programação PHP e como usá-la para criar aplicações web dinâmicas.
+Neste módulo, os estagiários aprenderão sobre a linguagem de programação JavaScript e como adicionar interatividade às páginas web.
 
 ## Aulas
 
-### Aula Curso em Vídeo - PHP
+### Aula Curso em Vídeo
 
-[Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k)
+[Curso em Vídeo - Javascript](https://www.youtube.com/playlist?list=PLntvgXM11X6pi7mW0O4ZmfUI1xDSIbmTm)
 
-### Aula UnSet
+### Aula Programação Web
 
-[Curso de PHP 8 do Zero ao Profissional](https://www.youtube.com/playlist?list=PL0N5TAOhX5E9eJ9Ix6YUIgEw3lNmaIEE9)
+[Curso de JavaScript Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw)
 
 # Desafios
 
 ## Desafio 1: Sintaxe e variáveis
 
-Aprenda a sintaxe básica do PHP, incluindo declaração de variáveis e tipos de dados.
+Aprenda a sintaxe básica do JavaScript, incluindo declaração de variáveis e tipos de dados.
 
 ## Desafio 2: Operadores e estruturas de controle
 
@@ -29,25 +29,25 @@ Explore operadores aritméticos, de comparação e lógicos, bem como estruturas
 
 ## Desafio 3: Funções e escopo
 
-Aprenda a criar e usar funções no PHP e entenda o conceito de escopo de variáveis.
+Aprenda a criar e usar funções no JavaScript e entenda o conceito de escopo de variáveis.
 
-## Desafio 4: Arrays e manipulação de arrays
+## Desafio 4: Objetos e arrays
 
-Trabalhe com arrays no PHP, incluindo a criação, manipulação e acesso a elementos.
+Trabalhe com objetos e arrays no JavaScript, incluindo a criação, manipulação e acesso a propriedades e elementos.
 
-## Desafio 5: Formulários e manipulação de dados
+## Desafio 5: DOM e manipulação de elementos
 
-Aprenda a processar dados de formulários HTML e a validar e higienizar dados do usuário usando PHP.
+Aprenda a selecionar, criar e modificar elementos HTML usando JavaScript e a API do Document Object Model (DOM).
 
-## Desafio 6: Sessões e cookies
+## Desafio 6: Eventos e manipuladores de eventos
 
-Entenda como gerenciar sessões e cookies em PHP para criar aplicações web com gerenciamento de estado.
+Adicione interatividade à sua página HTML, lidando com eventos e registrando manipuladores de eventos usando JavaScript.
 
-## Desafio 7: Programação Orientada a Objetos (POO)
+## Desafio 7: Chamadas AJAX e APIs
 
-Explore os conceitos de Programação Orientada a Objetos (POO) em PHP, incluindo classes, objetos, herança e polimorfismo.
+Aprenda a fazer chamadas AJAX para recuperar dados de APIs e atualizar sua página HTML dinamicamente.
 
-## Desafio 8: Conexão com banco de dados
+## Desafio 8: Bibliotecas e frameworks JavaScript
 
-Aprenda a conectar-se a um banco de dados MySQL e executar consultas SQL usando PHP.
+Explore bibliotecas e frameworks JavaScript populares, como jQuery, React, Angular e Vue.js.
 
