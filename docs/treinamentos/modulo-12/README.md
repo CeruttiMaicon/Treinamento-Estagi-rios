@@ -1,9 +1,9 @@
 ---
 sidebar: auto
-title: Módulo 12
+title: Laravel - Parte 2
 ---
 
-# Módulo 12: Laravel - Parte 2 (CRUD de Cadastro de Clientes com múltiplos endereços)
+# Laravel - Parte 2 (CRUD de Cadastro de Clientes com múltiplos endereços)
 
 Neste módulo, os estagiários continuarão trabalhando no projeto CRUD iniciado no módulo anterior, adicionando mais funcionalidades e aprimorando suas habilidades no Laravel.
 

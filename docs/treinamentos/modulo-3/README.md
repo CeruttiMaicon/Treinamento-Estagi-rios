@@ -1,9 +1,8 @@
 ---
 sidebar: auto
-title: Módulo 3
 ---
 
-# Módulo 3: HTML
+# HTML
 
 Neste módulo, os estagiários aprenderão sobre a linguagem de marcação HTML e como criar páginas web simples.
 

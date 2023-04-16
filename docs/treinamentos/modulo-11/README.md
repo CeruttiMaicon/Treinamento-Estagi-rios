@@ -1,9 +1,9 @@
 ---
 sidebar: auto
-title: Módulo 11
+title: Laravel - Parte 1
 ---
 
-# Módulo 11: Laravel - Parte 1 (CRUD de Cadastro de Clientes com múltiplos endereços)
+# Laravel - Parte 1 (CRUD de Cadastro de Clientes com múltiplos endereços)
 
 Neste módulo, os estagiários aprenderão os fundamentos do framework Laravel e começarão a trabalhar com um projeto CRUD.
 

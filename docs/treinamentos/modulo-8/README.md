@@ -1,9 +1,9 @@
 ---
 sidebar: auto
-title: Módulo 8
+title: Programação Orientada a Objetos
 ---
 
-# Módulo 8: Programação Orientada a Objetos (POO)
+# Programação Orientada a Objetos (POO)
 
 Neste módulo, os estagiários aprenderão os conceitos fundamentais da Programação Orientada a Objetos (POO) e como aplicá-los em PHP.
 

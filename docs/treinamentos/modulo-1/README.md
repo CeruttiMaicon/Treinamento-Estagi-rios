@@ -1,9 +1,9 @@
 ---
 sidebar: auto
-title: Módulo 1
+title: Conhecendo Linux
 ---
 
-# Módulo 1: Conhecendo Linux (comandos básicos)
+# Conhecendo Linux (comandos básicos)
 
 Neste módulo, os estagiários aprenderão sobre o sistema operacional Linux e comandos básicos para navegação e gerenciamento de arquivos.
 

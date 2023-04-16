@@ -1,9 +1,8 @@
 ---
 sidebar: auto
-title: Módulo 5
 ---
 
-# Módulo 5: Algoritmos
+# Algoritmos
 
 Neste módulo, os estagiários aprenderão sobre algoritmos e resolverão problemas comuns usando diferentes estruturas de dados e técnicas de programação.
 

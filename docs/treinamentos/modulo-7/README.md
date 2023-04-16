@@ -1,9 +1,8 @@
 ---
 sidebar: auto
-title: Módulo 7
 ---
 
-# Módulo 7: PHP
+# PHP
 
 Neste módulo, os estagiários aprenderão sobre a linguagem de programação PHP e como usá-la para criar aplicações web dinâmicas.
 
@@ -21,7 +20,21 @@ Neste módulo, os estagiários aprenderão sobre a linguagem de programação PH
 
 ## Desafio 1: Sintaxe e variáveis
 
-Aprenda a sintaxe básica do PHP, incluindo declaração de variáveis e tipos de dados.
+**Objetivo**: Aprenda a sintaxe básica do PHP, incluindo declaração de variáveis e tipos de dados.
+
+### Tópicos a serem estudados:
+
+1. Sintaxe básica do PHP
+2. Declaração de variáveis
+3. Tipos de dados
+
+### Atividades propostas:
+
+1. Estude a sintaxe básica do PHP, incluindo a estrutura de um script PHP, como inserir código PHP em um arquivo HTML e como executar um script PHP em um servidor local.
+2. Aprenda a declarar e usar variáveis no PHP, incluindo a atribuição de valores e a concatenação de strings.
+3. Conheça os tipos de dados no PHP, como string, integer, float, boolean, array e objeto. Aprenda a diferenciar e converter entre os diferentes tipos de dados.
+
+Ao concluir este desafio, o estagiário será capaz de escrever e executar scripts PHP simples, declarar e usar variáveis, e trabalhar com diferentes tipos de dados.
 
 ## Desafio 2: Operadores e estruturas de controle
 

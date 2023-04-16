@@ -1,9 +1,8 @@
 ---
 sidebar: auto
-title: Módulo 10
 ---
 
-# Módulo 10: MySQL
+# MySQL
 
 Neste módulo, os estagiários aprenderão os fundamentos do MySQL e como trabalhar com bancos de dados e tabelas.
 

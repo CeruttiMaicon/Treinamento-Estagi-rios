@@ -1,9 +1,9 @@
 ---
 sidebar: auto
-title: Módulo 2
+title: Versionamento GIT
 ---
 
-# Módulo 2: Versionamento de código GIT e Fluxo de Desenvolvimento
+# Versionamento de código GIT e Fluxo de Desenvolvimento
 
 Neste módulo, os estagiários aprenderão sobre o sistema de controle de versão Git e o fluxo de desenvolvimento utilizando o versionamento semântico.
 

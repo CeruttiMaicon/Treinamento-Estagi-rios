@@ -1,9 +1,8 @@
 ---
 sidebar: auto
-title: Módulo 4
 ---
 
-# Módulo 4: CSS
+# CSS
 
 Neste módulo, os estagiários aprenderão sobre CSS (Cascading Style Sheets) e como estilizar páginas web.
 

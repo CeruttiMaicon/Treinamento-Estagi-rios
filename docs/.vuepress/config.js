@@ -18,51 +18,51 @@ export default {
         link: '/treinamentos',
         children: [
           {
-            text: 'Módulo 1',
+            text: 'Conhecendo Linux',
             link: '/treinamentos/modulo-1',
           },
           {
-            text: 'Módulo 2',
+            text: 'Versionamento GIT',
             link: '/treinamentos/modulo-2',
           },
           {
-            text: 'Módulo 3',
+            text: 'HTML',
             link: '/treinamentos/modulo-3',
           },
           {
-            text: 'Módulo 4',
+            text: 'CSS',
             link: '/treinamentos/modulo-4',
           },
           {
-            text: 'Módulo 5',
+            text: 'Algoritmos',
             link: '/treinamentos/modulo-5',
           },
           {
-            text: 'Módulo 6',
+            text: 'JavaScript',
             link: '/treinamentos/modulo-6',
           },
           {
-            text: 'Módulo 7',
+            text: 'PHP',
             link: '/treinamentos/modulo-7',
           },
           {
-            text: 'Módulo 8',
+            text: 'Programação Orientada a Objetos',
             link: '/treinamentos/modulo-8',
           },
           {
-            text: 'Módulo 9',
+            text: 'Docker básico',
             link: '/treinamentos/modulo-9',
           },
           {
-            text: 'Módulo 10',
+            text: 'MySQL',
             link: '/treinamentos/modulo-10',
           },
           {
-            text: 'Módulo 11',
+            text: 'Laravel - Parte 1',
             link: '/treinamentos/modulo-11',
           },
           {
-            text: 'Módulo 12',
+            text: 'Laravel - Parte 2',
             link: '/treinamentos/modulo-12',
           },
         ],

@@ -1,9 +1,8 @@
 ---
 sidebar: auto
-title: Módulo 6
 ---
 
-# Módulo 6: JavaScript
+# JavaScript
 
 Neste módulo, os estagiários aprenderão sobre a linguagem de programação JavaScript e como adicionar interatividade às páginas web.
 

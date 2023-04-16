@@ -1,9 +1,8 @@
 ---
 sidebar: auto
-title: Módulo 9
 ---
 
-# Módulo 9: Docker básico
+# Docker básico
 
 Neste módulo, os estagiários aprenderão os conceitos básicos do Docker e como usá-lo para facilitar o desenvolvimento e a implantação de aplicações.
 
