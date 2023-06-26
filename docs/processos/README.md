@@ -11,5 +11,5 @@ actions:
     link: /processos/scrum/
     type: secondary
 
-footer: MIT Licensed | Maicon Cerutti 2023
+footer: MIT Licensed | Zoren Software 2023
 ---
